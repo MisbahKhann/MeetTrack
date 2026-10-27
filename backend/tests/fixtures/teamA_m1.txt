@@ -1,0 +1,7 @@
+Meeting 1 | Team A | 2026-10-05
+1. Bilal: I will collect 500 more leaf images by Friday.
+2. Amna: I will label the existing dataset and share it by next Monday.
+3. Sara: I will review the preprocessing pipeline and report issues by Wednesday.
+4. Bilal: I will set up the shared Google Drive folder by today.
+5. Amna: I will read the reference paper and summarise findings by end of week.
+6. Sara: I will prepare the project proposal draft by 12 Oct.

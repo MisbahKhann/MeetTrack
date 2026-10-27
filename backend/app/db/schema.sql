@@ -1,0 +1,4 @@
+-- The authoritative schema lives in migrations/001_initial.sql.
+-- Apply it (and any future migrations) via:
+--   python -m app.db init --path <db_path>
+-- or programmatically via app.db.migrations.run_migrations(conn).

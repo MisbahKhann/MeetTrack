@@ -1,0 +1,6 @@
+Meeting 3 | Team A | 2026-10-19
+1. Bilal: The preprocessing bugs are fixed; I will upload the corrected dataset by 24 Oct.
+2. Amna: Labelling is complete; I will run the first training epoch by 23 Oct.
+3. Sara: The proposal draft revision is done; I will share the final version by 20 Oct.
+4. Bilal: The evaluation script is ready; I will test it on the validation set by Friday.
+5. Amna: I found a new metric we should track; I will document it by next week.

@@ -1,0 +1,48 @@
+# Environment
+.env
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.whl
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Logs and outputs (keep .gitkeep inside each)
+logs/*
+!logs/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# Tool caches
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kiro AI tool metadata
+.kiro/
+
+# Local-only files (never committed)
+HANDOVER.md
+
+# Coverage
+.coverage
+coverage.xml
